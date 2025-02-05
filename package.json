@@ -1,9 +1,10 @@
 {
+  "homepage": "https://baidtushar14.github.io/GTA_react-test/",
   "name": "react_gtm",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://baidtushar14.github.io/GTA-test",
+
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
